@@ -1,0 +1,25 @@
+item {
+    id: 1
+    display_name: "Cb/Ns"
+}
+
+item {
+    id: 2
+    display_name: "Cc/Ac"
+}
+
+item {
+    id: 3
+    display_name: "Ci"
+}
+
+item {
+    id: 4
+    display_name: "Cu"
+}
+
+item {
+    id: 5
+    display_name: "Sc"
+}
+
