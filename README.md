@@ -1,2 +1,2 @@
-### image_classification
-classify different weather conditions e.g. raining/not, clear sky/cloudy, visibility...
+### object_detection
+
