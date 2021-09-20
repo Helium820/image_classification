@@ -10,5 +10,8 @@ Useful library:
 
 
 ### Inference test
-Directory `inference_dir/` contains the elements needed for processing a quick detection with trained model.  
+Directory `inference_dir/` contains the elements needed for processing a quick detection with trained model by running . 
 An example has been done in `input/` and `output/` directories.
+
+Download the pre-trained cloud-detection model: `link not ready`  
+
