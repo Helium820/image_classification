@@ -13,5 +13,5 @@ Useful library:
 Directory `inference_dir/` contains the elements needed for processing a quick detection with trained model by running jupyter notebook. 
 An example has been done in `input/` and `output/` directories.
 
-Download the pre-trained cloud-detection model: [Model link](https://drive.google.com/uc?id=1pekFSYzIDtVY15F9VJUVOtNXAr6oW5Dy&export=download)
-
+Download the pre-trained cloud-detection model: [Model link](https://drive.google.com/uc?id=1pekFSYzIDtVY15F9VJUVOtNXAr6oW5Dy&export=download)  
+and put it into `exported-models/$model_name+_ckpt-31/saved_model/` directory
